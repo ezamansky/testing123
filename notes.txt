@@ -1,3 +1,63 @@
 Programming: "A collection of specifications that may take variable inputs,
               and that can be executed (or interpreted) by a device with
               computational capabilities."
+
+Use :wq to exit Vim
+
+Linux Commands:
+    ls
+        [Lists files and directories in the current directory]
+    ls -a
+        [Lists all files and directories, including hidden ones]
+
+    cd 
+        [Changes directories]
+        [If no directory specified, changes to home directory]
+    cd /
+        [Goes to the root directory]
+    cd <pathName>
+        [Changes to the directory on the specified path]
+    cd ..
+        [Goes up one level of directory]
+    cd ~
+        [Goes to the home directory]
+    cd -
+        [Goes back to last working directory]
+
+    mkdir
+        [Makes a new directory with the specified name]
+    mkdir <directoryName>
+
+    pwd
+        [Prints the current working directory]
+
+    touch
+        [Makes a new file if the name doesn't exist]
+        [If the name does exist, updates timestamp]
+    touch <fileName>
+
+    python3
+        [Runs Python from the terminal]
+        [If no file given, prompts you to write code in the termial]
+    python3 <fileName>
+        [Runs the specified python file]
+
+    codium
+        [Opens a file in VSCodium]
+    codium <fileName>
+
+    git init
+        [Sets up the current directory as a Git repository]
+    git add <fileName>
+        [Tells Git to track changes of specified document(s)]
+    git commit -m "<message>"
+        [Commits changes and provides given message]
+        [DO NOT remove the message flag. It is very annoying to deal with.]
+    git push
+        [Adds changes to GitHub repository]
+    git push origin main
+        [Pushes changes specifically to main]
+    git log
+        [Lists all previous commits]
+    git config --<settingOrList>
+        [Configures git]
