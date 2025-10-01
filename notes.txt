@@ -1,0 +1,3 @@
+Programming: "A collection of specifications that may take variable inputs,
+              and that can be executed (or interpreted) by a device with
+              computational capabilities."
