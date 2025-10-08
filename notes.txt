@@ -4,6 +4,23 @@ Programming: "A collection of specifications that may take variable inputs,
 
 Use :wq to exit Vim
 
+Python might need you to import math for some stuff
+Statements are lines of code that tell the computer to do something
+    pass    [a statement that literally just does nothing]
+
+You can return tupules: (a, b, c) or (a, b)
+    They just return multiple values at once
+
+# comments can look like this
+
+"""
+Or like this
+"""
+
+Decomposition: breaking our problem into its most relevant aspects
+Absraction: simplifying complex systems by hiding unnecessary details
+Procedural Abstraction: hiding the details of how a task is done
+
 Linux Commands:
     ls
         [Lists files and directories in the current directory]
